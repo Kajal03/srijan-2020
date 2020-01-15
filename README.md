@@ -5,9 +5,9 @@ Progress of content.
 ## Articles
 
 
-| S. No | Name  | Editor Assigned |  Status |
-|------ |------ |---------------- |---------|
-
+| S. No | Name                           | Editor Assigned |  Status |
+|------ |------------------------------- |---------------- |---------|
+|1.     |How Mind Design-Merging with AI | Kajal Gupta     |---------|
 ---
 
 ## Other content
