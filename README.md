@@ -8,7 +8,7 @@ Progress of content.
 | S. No | Name                                      | Editor Assigned |  Status |
 |------ |-------------------------------------------|---------------- |---------|
 |1.     |How Mind Design-Merging with AI            | Kajal Gupta     | on hold |
-|2.     |The Rise of Quantum Supremacy              | Arpita Saggar   |    -    |
+|2.     |The Rise of Quantum Supremacy              | Arpita Saggar   | Review Requested |
 |3.     |Rise of Blockchain                         | Kajal Gupta     |    -    |
 |4.     |The Dynamics of Molecular Machine Learning | Kajal Gupta     |please review |
 |5.     |3D Stacking                                | Diksha Gupta    |    -    |
