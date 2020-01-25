@@ -1,4 +1,4 @@
-# HOW Mind Design - Merging with AI?
+# Mind Design - Merging with AI?
 
 ---
 
