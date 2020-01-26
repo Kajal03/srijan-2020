@@ -15,7 +15,7 @@
 
 ## Introduction
 
-We have all seen how powerful and accurate an AI system could be, but it is so, at the cost of them being black box models as they lack the virtue of explainability. And hence, Explainability in AI has become a hot topic for researchers these days. Development in explainable AI is certainly very important for us humans to understand and become more trustful of the decisions a machine took for us.
+We have all seen how powerful and accurate an AI system could be, but it is so, at the cost of them being black box models as they lack the virtue of explainability. And hence, explainability in AI has become a hot topic for researchers these days. Development in explainable AI is certainly very important for us, humans, to understand and become more trustful of the decisions a machine took for us.
 Explainable AI (a.k.a. XAI) is a field that is rapidly emerging nowadays, it aims to explain how “black box” AI and machine learning models are actually able to make complicated decisions for us. It is inspecting and trying to understand all the steps and models that involve decision making. And thus, most of us (owners, operators and users) are expecting the XAI to answer hot questions like - Why a specific AI or machine learning model makes a certain prediction? When would it fail or succeed and with what probability it would be so? Or When can we really have enough confidence in the decisions made by a machine for us? And so on.
 
 ## Explainability Vs Interpretability in AI
