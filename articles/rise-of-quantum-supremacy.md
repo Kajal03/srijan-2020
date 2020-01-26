@@ -1,4 +1,4 @@
-## The Rise of Quantum Computing
+## The Rise of Quantum Supremacy
 
 ---
 | Field | Value |
