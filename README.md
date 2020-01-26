@@ -18,7 +18,7 @@ Progress of content.
 |9.     | IPFS                                      | Swati Gautam    |         ||
 |10.    |Ethics and AI                              | Swati Gautam    |         ||
 |11.    |Computing at the egde                      | Arpita Saggar   |         ||
-|12.    |Explainable Artificial Intelligence        | Kajal Gupta     |   -     || 
+|12.    |Explainable Artificial Intelligence        | Kajal Gupta     |Review Requested || 
 
 ---
 
