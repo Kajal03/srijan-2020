@@ -14,10 +14,10 @@ Progress of content.
 |5.     |3D Stacking                                | Diksha Gupta    |    -    ||
 |6.     |How torrent works                          | Diksha Gupta    |    -    ||
 |7.     |AI Rush                                    | Arpita Saggar   | on hold | TBD|
-|8.     |Security in the Modern World               | Arpita Saggar   |    -    ||
+|8.     |Security in the Modern World               | Arpita Saggar   | Review Requested ||
 |9.     | IPFS                                      | Swati Gautam    |         ||
 |10.    |Ethics and AI                              | Swati Gautam    |         ||
-|11.    |Computing at the egde                      |                 |         ||
+|11.    |Computing at the egde                      | Arpita Saggar   |         ||
 |12.    |Explainable Artificial Intelligence        | Kajal Gupta     |   -     || 
 
 ---
