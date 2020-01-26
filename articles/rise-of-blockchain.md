@@ -11,7 +11,7 @@
 
 ---
 
-The technology likely to have the greatest impact on the next few decades has arrived. Its neither about big data, nor robotics or AI but it is ‘Blockchain’, the uderlying technology of digital currencies like bitcoin and ethereum. From secure and hassle free payment processing to data sharing, real estate title transfers or copyrighting you name it and blockchain provides the solution to every one of them.
+The technology likely to have the greatest impact on the next few decades has arrived. Its neither about big data, nor robotics or AI but it is ‘Blockchain’, the uderlying technology of digital currencies like bitcoin and ethereum. From secure and hassle free payment processing to data sharing, real estate title transfers or copyrighting, blockchain provides the solution to every one of them.
 WHAT IS A BLOCKCHAIN?
 As one can guess from the name a blockchain is simply a chain of blocks(ledgers) containing information. The idea was originally thought of in 1991 to secure digital documents by time stamping them to protect them from getting back dated or tampered with. Although it went mostly unused through the decades, until in 2009 Satoshi Nakamoto (presumed pseudononymous) used the idea to create a digital crypto currrency – “Bitcoin”.
 HOW DOES A BLOCKCHAIN WORK?
