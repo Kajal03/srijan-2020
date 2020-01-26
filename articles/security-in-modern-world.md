@@ -1,53 +1,48 @@
-## Security In the Modern World
+## Security In the Modern World - Quantifying The Security Risk Of An Enterprise
 
 ---
 | Field | Value |
 |----|----|
 | Writer | Hitesh Yadav - MSc I yr|
 | Editor | Arpita Saggar			   |
-| Status | -                       |
-| Plagiarism| None [Report](./plag-reports/plag-security-in-modern-world.pdf) | 
+| Status | Review Requested      |
+| Plagiarism| None [Report](./plag-reports/plag-security-in-modern-world.pdf) |
+| Updated Plag | None [Report](./plag-reports/plag-v2-security-in-modern-world.pdf) |
 
 ---
-Security In the Modern World
-(Quantifying The Security Risk Of An Enterprise)
+In recent years, the telecommunication industry has witnessed significant growth with the increasing omnipresence of communication devices, and inception and development of new technologies such as IoT (Internet of Things), which have led to a substantial augmentation in interconnectivity. However, these developments have also exposed a glaring concern – the security risks and vulnerabilities which accompany them.
 
-The substantial usage of Communication devices, IOT devices and increasing interconnectivity among systems, organization and people, is exposing them for security risk and vulnerabilities.
-Security risk management is an ongoing process to identify these risk, manage them and implementing plans to mitigate them. It assigns relative priorities for mitigation plans and implementation. Thus, a risk assessment framework is needed for categorizing and sharing information about the security risk information technology infrastructure. 
+Security risk management is an ongoing process to identify and manage these risks, followed by implementation of plans to mitigate them. It assigns relative priorities for mitigation plans and implementation. Thus, a risk assessment framework is needed for categorizing and sharing information about the security risk IT infrastructure. 
 
-•	Overview of Vulnerabilities and Security Framework 
-System Vulnerabilities are defined as fault or weaknesses that reduces and limits system ability.
+## Vulnerabilities and the Security Framework 
 
-Assessing risk is a major task in any organization. The vulnerability analysis is a part of risk assessment process which focuses on methods for identifying vulnerability and implementing suitable protection plans to maintain acceptable network security and protect information. A security framework is a holistic structure for risk assessment. 
-and yes natural calamities like (earthquake, flood and fire) too are in the list of risk as these can have impact on organization asset and its physical structure.
-Also the nature of information network allows an attacker to attack from anywhere in the world making the task of identification too cumbersome. 
+Assessing vulnerabilities is a major task in any organization. Vulnerability analysis is a part of the risk assessment process. It focuses on methods for identifying vulnerabilities, and implementing suitable protection plans to maintain a certain standard of network security.
 
-•	Security Risk Assessment Overview
-Security Risk Assessment is defined as the process of evaluating the security risk of an organization that identifies the required security measures. This assessment is done at very early stages. The assessment is done at very early stages of the product development and later on the stages when there is change to information asset and its environment. The process involves assessment of and analysis of all asset and processes related to the system to identifying the threat and vulnerabilities that could affect your system’s confidentiality, integrity and availability of the system.	Risk assessment is an essential part component of risk management and to be effective, risk assessment must be an ongoing process. 
-It can be divide into three categories 
-1.	 High level assessment which is applied to system at design phase to identify risk before implementation.
-2.	Comprehensive assessment which can be use to assess particular system at department and provide recommendation for improvement. 
-3.	Pre-Production assessment conducted on new information system before it is rolled out.
+In order to regulate the risk assessment process, a uniform and unanimous configuration is requisite. A security framework is a holistic structure for risk assessment. It is used to evaluate security capabilities across industry standards by using tools to identify shortcomings in controls, score the level of IT risk and prioritize rectification and repair. Even natural calamities like earthquakes, floods and fire are included in the list of risks, as these can impact the organization’s assets and its physical structure.
 
-•	Modern Risk Assessment tools AKA HEROES OF THE SHOW
-1.LUCIDEUS SAFE
-SAFE is an AI and ML backed platform which performs enterprise wide cyber risk and quantifies organization security on a scale from one to five.
-It is a self-evolving and dynamic cyber risk assessment platform that integrates with your exsiting IT infrastructure and security tools deployed within your organization to do real time assessment both at a macro(Enterprise wide) and a micro(Asset wise) level to allow the organization visualize, track and enhance their cyber risk posture.
+## Security Risk Assessment
 
-MACRO LEVEL ASSESMENT	
-using 2500+ controls encompasses over 15+ global compliances, SAFE assesse your complete IT stack and quantifies your security overview on a scale from 0 to  5
+Security Risk Assessment is the process of evaluating the security risks of an organization to ascertain the required countermeasures. To be effective, risk assessment must be a continuous process. The motive is to identify the threats and vulnerabilities that could affect the privacy, integrity and accessibility of the system. The assessment is done at the early stages of product development, and is later modified as changes occur in the information asset and its environment. The process involves assessment and analysis of all assets and processes related to the system.
 
-MICRO LEVEL ASSESSMENT
-Provides 360 degree view of technology-wise security posture which is then furthers funneled down to an individual Asset’s level.
+It can be divided into three categories:
+1.	High level Assessment, which is applied to systems at design phase in order to identify risks before implementation.
+2.	Comprehensive Assessment, which is used to assess a particular constituent system and to gather feedback for improvement. 
+3.	Pre-Production Assessment, conducted on new information systems before they are rolled out.
 
-KEY FEATURES
+## An Insight into Modern Risk Assessment Tools - LUCIDEUS SAFE
 
-ON SAFE SCORE -> one SAFE score represents your entire organization security position.
+SAFE (Security Assessment Framework for Enterprise) is an AI and ML based platform which performs enterprise-wide cyber risk assessment and quantifies organizational security. It is a dynamic cyber risk assessment platform which integrates with the existing IT infrastructure and security tools deployed within an organization. It performs real time assessment both at a macro (enterprise-wide) and a micro (asset-wise) level to allow an organization to visualize, track and enhance their cyber risk posture.
 
-REAL TIME ASSESSMENT -> enables the organization to have real-time assessment on their assets.
+Key features of the platform include:
 
-HACK SIMULATION -> virtually simulate real hacks to find out your cyber defense against known hacks.
+•	MACRO LEVEL ASSESMENT: Using 2500+ controls encompassing over 15+ global compliances, SAFE assesses the entire IT stack and provides a comprehensive security score from 0 to  5
 
-AUTO PATCHING -> easily remediate vulnerability and configuration controls following a change control process 
+•	MICRO LEVEL ASSESSMENT: Provides a 360 degree view of technology-wise security posture, which is then further funneled down to an individual asset’s level.
 
-COMPLIANCE MANAGEMENT -> gives a real time analysis against the global compliance framework 
+•	REAL-TIME ASSESSMENT: Enables the organization to receive a synchronous, live assessment of their assets.
+
+•	HACK SIMULATION: Virtually simulates attacks to evaluate the organization’s cyber-defense system against known hacks.
+
+•	AUTO PATCHING: Allows easy remediation of vulnerability and configuration controls following changes in a control process.
+
+•	COMPLIANCE MANAGEMENT: Provides a real-time analysis of the system in comparison to the global compliance framework.
