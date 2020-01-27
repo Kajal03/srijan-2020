@@ -7,7 +7,7 @@
 | ---------- | ----------------------------------------------------------------- |
 | Writer     | Anurag Joshi - MCA I year                                      |
 | Editor     | Kajal Gupta                                                       |
-| Status     | Conclusion required                                                              |
+| Status     | Conclusion added                                                             |
 | Plagiarism| None. | [Report](./plag-reports/plag-explainableAI.pdf)
                                           
 
@@ -46,3 +46,6 @@ In order to develop explainable machine learning and deep learning systems we ca
     been made. For instance, in an Image classification problem (using CNN), LIME first blacks out different areas of the original image and feeds the resulting images into the model to see which of the new images threw off the algorithm farthest and derive reasoning behind the model’s predictions.
 
     2) BETA: BETA is considered to be closely related to interpretable decision sets. To explain the part of the model behaviour unambiguously, BETA learns a compact 2-level decision set. BETA uses an objective function which helps the learning process in having high fidelity (agreement between explanation and model), high interpretability and low unambiguity. All these aspects are combined into one objective function which is optimized.
+
+
+It has been witnessed that the success of AI models is mostly due to their complex internal representation of features, which also leads to their inexplicable nature. There are various kinds of on-going researches, even by leading institutions like Google, DeepMind, etc. to make AI more answerable. But a tradeoff between accuracy and explainability will always be there that will depend on many factors like the field of application, end-user, legal liabilities, etc. Blindly following AI systems without trying to understand the reasoning behind it is not a beneficial thing to do in various fields (like medical sciences) and hence, interpretable and flexible AI models should be built that work well in collaboration with experts and their domain knowledge.
