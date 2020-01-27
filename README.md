@@ -16,9 +16,11 @@ Progress of content.
 |7.     |AI Rush                                    | Arpita Saggar   | on hold | TBD|
 |8.     |Security in the Modern World               | Arpita Saggar   |Conclusion required ||
 |9.     | IPFS                                      | Swati Gautam    | Review requested ||
-|10.    |Ethics and AI                              | Swati Gautam    |         |Yes|
+|10.    |Ethics and AI                              | Swati Gautam    |   review requested      |Yes|
 |11.    |Computing at the egde                      | Arpita Saggar   |         ||
-|12.    |Explainable Artificial Intelligence        | Kajal Gupta     |conclusion added|| 
+|12.    |Explainable Artificial Intelligence        | Kajal Gupta     |review requested|| 
+|13.    |Reshaping internet access                  |                 |          
+
 
 ---
 
