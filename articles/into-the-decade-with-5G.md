@@ -4,7 +4,7 @@
 | Field | Value |
 |----|----|
 | Writer | Mansi Saxena - MSc I yr|
-| Editor | TBD			   |
+| Editor | Diksha Gupta   |
 | Status | -                       |
 | Plagiarism|| 
 

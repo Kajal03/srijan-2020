@@ -21,7 +21,7 @@ Progress of content.
 |12.    |Explainable Artificial Intelligence        | Kajal Gupta     |review requested|| 
 |13.    |Reshaping internet access                  |                 |          
 |14.    |Uber's Rating System                       | Kajal Gupta     | on hold ||
-|15.    |Into the Decade with 5G                    |                 |      ||
+|15.    |Into the Decade with 5G                    | Diksha Gupta    |      ||
  
 ---
 
