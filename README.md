@@ -20,7 +20,7 @@ Progress of content.
 |11.    |Computing at the egde                      | Arpita Saggar   |         ||
 |12.    |Explainable Artificial Intelligence        | Kajal Gupta     |review requested|| 
 |13.    |Reshaping internet access                  |                 |          
-|14.    |Uber's Rating System                       |                 |       ||
+|14.    |Uber's Rating System                       | Kajal Gupta     | on hold ||
 |15.    |Into the Decade with 5G                    |                 |      ||
  
 ---

@@ -4,9 +4,9 @@
 | Field | Value |
 |----|----|
 | Writer | Devansh Sharma - MSc I yr|
-| Editor | TBD			   |
-| Status | -                       |
-| Plagiarism|| 
+| Editor |  Kajal Gupta  |
+| Status | on hold in my opinion   |
+| Plagiarism|| 17% [Report](./plag-reports/plag-ubers-rating-system.pdf) |
 
 ---
 
