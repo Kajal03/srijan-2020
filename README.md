@@ -19,6 +19,7 @@ Progress of content.
 |10.    |Ethics and AI                              | Swati Gautam    |         |Yes|
 |11.    |Computing at the egde                      | Arpita Saggar   |         ||
 |12.    |Explainable Artificial Intelligence        | Kajal Gupta     |Conclsion required || 
+|13.    |Reshaping internet access                  |                 |          
 
 ---
 
