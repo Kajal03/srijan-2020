@@ -7,16 +7,17 @@
 | Writer     | Aryan Sindwani - MCA I year                                       |
 | Editor     | Kajal Gupta                                                       |
 | Status     | -                                                                 |
-| Plagiarism | 3% plagiarised                                                    |
+| Plagiarism | None                                                  |
 
 ---
 
 You may have heard of "blockchain," the record-keeping system behind bitcoin. But may not have understood how it actually works. In trying to learn about blockchain, you must have read definitions like: “blockchain is a decentralized, distributed, public ledger”. The good news is, it is a whole lot easy than what this definition made it look like. 
 
-WHAT IS BLOCKCHAIN?
+## WHAT IS BLOCKCHAIN?
 As one can guess from the name itself, a blockchain is simply a chain of blocks, precisely said, ledgers, containing information. The idea was originally thought of in 1991 to secure digital documents by time-stamping them to protect them from getting backdated or tampered with. It went mostly unused through the decades until 2009 when Satoshi Nakamoto (presumed pseudonymous) used the idea to create a digital currency – “Bitcoin”.
 
-HOW DOES A BLOCKCHAIN WORK?
+## HOW DOES A BLOCKCHAIN WORK?
+
 A blockchain can be thought of as a distributed ledger with each block containing :
     1. Data
     2. Hash of its own
@@ -31,11 +32,12 @@ Every block stores the hash of the previous block, thus making it secure.
 
 Let’s understand this with the picture above. Suppose the second block here is tampered causing its hash to change that will make block 3 and all following blocks invalid as it does not anymore store a valid hash of the previous block. Therefore, changing a single block will disrupt the chain.
 A hash is easy to calculate with a ton of powerful machines available in the market and hence can be cracked. This is when proof-of-work comes into the picture. It’s a simple technique that slows down the creation of each block so that the tampering becomes more difficult. Thus, the security of a blockchain comes from its innovative use of hashing and POW.
-A blockchain also provides security by being distributed using a decentralized network or in other words a peer-to-peer network instead of a central database. Every peer on the network is provided with a complete copy of the blockchain. The creation of a new block is added on to every blockchain copy on the network all the nodes then create a consensus to agree upon which block is valid and which block is not this ensures that the tampered blocks are rejected from the network.
+A blockchain also provides security by being distributed on a decentralized network or in other words a peer-to-peer network instead of a central database. Every peer on the network is provided with a complete copy of the blockchain. When a new block is created, every blockchain copy on the network is updated. All the nodes create a consensus to agree upon which block is valid and which is not. This ensures that the tampered blocks are rejected from the network.
 
+Now consider a network of 100,000 nodes. To tamper with a block on the blockchain, one needs to calculate the hashes of all the blocks and their proof-of-work which in the case of a bitcoin blockchain takes about 10 minutes. This has to be done for more than 50% of the nodes on the P2P network. This is almost impossible to accomplish, making blockchain the safest way to transact.
 
-Now consider a network of a 100,000 nodes, to tamper with a block on the blockchain one needs to calculate all the hashes of the blocks and their proof-of-work(which takes about 10 minutes for a bitcoin blockchain) and this has to be done for more than 50% of the nodes on the P2P network only then will the block be accepted. Which is almost impossible to accomplish thus making it the safest way to transact.
-POTENTIAL USES OF BLOCKCHAIN
+## POTENTIAL USES OF BLOCKCHAIN
+
     1. Banking : Often a slow and complex system due to multiple intermidiaries, blockchain provides a secure way to transfer assets without the involvement of any third party thus simplifying the process.
     2. Real Estate : Eliminating the need of middlemen, blockchain could create vast changes here like processing title deeds and more.
     3. Online Voting : Exploring the option to digitalize voting systems using encrypted blockchains creating a transparent and secure voting system.
