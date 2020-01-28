@@ -4,7 +4,7 @@
 | Field | Value |
 |----|----|
 | Writer | Aditya Aggarwal - MCA II yr|
-| Editor |  |
+| Editor |  Kajal Gupta|
 | Status |  |
 | Plagiarism| None [Report](./plag-reports/plag-ambient-voice-technology.pdf) |
 
