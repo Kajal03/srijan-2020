@@ -12,7 +12,7 @@ Progress of content.
 |3.     |Rise of Blockchain                         | Kajal Gupta     |    -    ||
 |4.     |The Dynamics of Molecular Machine Learning | Kajal Gupta     |Reviewed |  Yes|
 |5.     |3D Stacking                                | Diksha Gupta    |Review requested ||
-|6.     |How torrent works                          | Diksha Gupta    |Review requested    ||
+|6.     |How torrent works                          | Diksha Gupta    |Reviewed | Yes    ||
 |7.     |AI Rush                                    | Arpita Saggar   | on hold | TBD|
 |8.     |Security in the Modern World               | Arpita Saggar   |Conclusion required ||
 |9.     | IPFS                                      | Swati Gautam    | Reviewd |Yes|
