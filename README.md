@@ -19,7 +19,7 @@ Progress of content.
 |10.    |Ethics and AI                              | Swati Gautam    |  Reviewed    |Yes|
 |11.    |Computing at the egde                      | Arpita Saggar   | Reviewed| Yes|
 |12.    |Explainable Artificial Intelligence        | Kajal Gupta     |Reviewed| Yes| 
-|13.    |Reshaping internet access                  |                 |          
+|13.    |Reshaping internet access                  |                 | ||
 |14.    |Uber's Rating System                       | Kajal Gupta     | |No|
 |15.    |Into the Decade with 5G                    | Diksha Gupta    |      ||
 |16.    |Reinforcement Learning Agents              | Arpita Saggar   |  -  ||
