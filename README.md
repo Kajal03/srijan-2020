@@ -11,7 +11,7 @@ Progress of content.
 |2.     |The Rise of Quantum Supremacy              | Arpita Saggar   |Reviewed | Yes |
 |3.     |Rise of Blockchain                         | Kajal Gupta     |    -    ||
 |4.     |The Dynamics of Molecular Machine Learning | Kajal Gupta     |Reviewed |  Yes|
-|5.     |3D Stacking                                | Diksha Gupta    |Review requested ||
+|5.     |3D Stacking                                | Diksha Gupta    |on hold  | TBD ||
 |6.     |How torrent works                          | Diksha Gupta    |Reviewed | Yes    ||
 |7.     |AI Rush                                    | Arpita Saggar   | on hold | TBD|
 |8.     |Security in the Modern World               | Arpita Saggar   |Conclusion required ||
