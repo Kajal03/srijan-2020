@@ -9,7 +9,7 @@ Progress of content.
 |------ |-------------------------------------------|---------------- |---------|-----------|
 |1.     |Mind Design-Merging with AI                | Kajal Gupta     | on hold |  TBD |
 |2.     |The Rise of Quantum Supremacy              | Arpita Saggar   |Reviewed | Yes |
-|3.     |Rise of Blockchain                         | Kajal Gupta     |    -    ||
+|3.     |Blockchain - Beyond the buzzword           | Kajal Gupta     |review requested||
 |4.     |The Dynamics of Molecular Machine Learning | Kajal Gupta     |Reviewed |  Yes|
 |5.     |3D Stacking                                | Diksha Gupta    |on hold  | TBD ||
 |6.     |How torrent works                          | Diksha Gupta    |Reviewed | Yes    ||
