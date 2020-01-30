@@ -23,7 +23,7 @@ Progress of content.
 |14.    |Uber's Rating System                       | Kajal Gupta     | |No|
 |15.    |Into the Decade with 5G                    | Diksha Gupta    | Reviewed| Yes |     ||
 |16.    |Reinforcement Learning Agents              | Arpita Saggar   |  -  ||
-|17.    |Ambient Voice Technology in Healthcare     | Kajal Gupta     |      ||
+|17.    |Ambient Voice Technology in Healthcare     | Kajal Gupta     | review requested||
 |18.    |Mobile Phone Sensing                       |                 |      ||
 |19.    |Firebase                                   |    -            |  -    |No|
 ---
