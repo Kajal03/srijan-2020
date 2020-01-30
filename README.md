@@ -25,6 +25,7 @@ Progress of content.
 |16.    |Reinforcement Learning Agents              | Arpita Saggar   |  -  ||
 |17.    |Ambient Voice Technology in Healthcare     | Kajal Gupta     |      ||
 |18.    |Mobile Phone Sensing                       |                 |      ||
+|19.    |Firebase                                   |    -            |  -    |No|
 ---
 
 ## Other content
