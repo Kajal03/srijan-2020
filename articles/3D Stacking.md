@@ -10,7 +10,8 @@
 | Plagiarism | None 100% Unique                                                  |
 
 ---
-Microprocessor companies are investing billions of dollars in R&D are coming up with really innovating and revolutionary technologies that are going to make Moore's law to get to its saturation point. As more and more devices are going handheld that companies have to decide whether to have a headphone jack or a slightly bigger battery internal components of our devices had to be miniaturized.
+
+Microprocessor companies are investing billions of dollars in R&D to come up with innovative and revolutionary technologies that are going to make Moore's law get to its saturation point. As more and more devices are going handheld that companies have to decide whether to have a headphone jack or a slightly bigger battery internal components of our devices had to be miniaturized.
 
 To tackle this problem major microprocessor giants are coming up with a new form of circuit fabrication packaging which does not require to have discrete removable auxiliary components such as RAM like what we have today, for example, In 2019 both AMD and Intel unveiled chipsets from this paradigm, AMD called it their chipset design and Intel named it FOVEROS, which had the code name lake field for this. These kinds of CPUs are more likely to come in HPC(High Performance Computing) and server parts than in the mainstream consumer market.
 
