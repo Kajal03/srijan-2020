@@ -5,63 +5,27 @@
 |----|----|
 | Writer | Manish - MCA I yr|
 | Editor | Arpita Saggar |
-| Status | - |
-| Plagiarism| None [Report](./plag-reports/plag-reinforcement-learning-agents.pdf) |
+| Status | Review Requested |
+| Plagiarism | 8% [Report](./plag-reports/plag-reinforcement-learning-agents.pdf) |
+| Updated Plag | None [Report](./plag-reports/plag-v2-reinforcement-learning-agents.pdf) |
 ---
-During our childhood, we learn by interacting with our environment. When an infant watches their parent and learns by observing
-every action taken by people around, such interaction are undoubtedly a major source of knowledge about their environment and themselves. The idea of behavior learning is an underlying theory of reinforcement learning.
 
-Reinforcement Learning is an approach to natural and artificial intelligence that emphasizes learning and planning from sample 
-experience. The characteristics trial and error, searching and delayed reward are the two important distinguishing features of
-reinforcement learning. In reinforcement learning, we using ideas of dynamic system theory. The world of the game provides the perfect
-mini-universe in which our AI agent facing a real problem and achieves its goals extend AI agent must be able to take action that
-affects the state. The agents have a goal relating to the state of the environment.
+The attainment of knowledge and wisdom is a continuous process for humanity. It commences at infancy and continues till the end of life. A child learns by observing the actions of those around him. Adults acclimatize themselves with new cultures by interaction. Such behavioral learning uses reinforcement procedures to communicate notions of ‘right and ‘wrong’ – analogous to what might be good and bad demeanor for a child, or culturally appropriate and culturally insensitive quips for an adult. These learning techniques form the underlying theory of reinforcement learning.
 
-Let say in the game of Pac-man your agent is this Pac-man and your opponent is the ghosts. Your goal is to eat the maximum amount
-of Pac dots before being eaten by ghosts. As we know for certain period enemies turn deep blue, move away from Pac-man and bonus 
-reward earned for eating blue ghost but it is dangerous because the ghost turns blue for a certain period. As a consequence, the 
-reward earned for eating a ghost, even if it is bigger will be discounted. We are not sure we will be able to eat it. To discount
-the reward we proceed like this we define a discount rate called gamma. It must be between 0 and 1.
+With the aim to maximize some form of cumulative reward, reinforcement learning is an approach to artificial intelligence that emphasizes decision making based on past experiences. It is one of the three basic machine learning paradigms, alongside supervised learning and unsupervised learning. Its key features include trial and error, and delayed gratification, which focus on finding a balance between utilization of knowledge and assessment of raw data. Such a problem solving approach is especially useful in the world of video gaming.
 
-* The larger the gamma, the smaller the discount. This means the learning agent cares more about the long term reward.
-* On the other hand the smaller the gamma the bigger the discount. This means our agent cares more about the short term reward.
+Consider a classic game of Pac-Man. The titular character, Pac-Man, attempts to eat the maximum amount of Pac-Dots before being eaten by the ghosts (opponents). Near the corners of the labyrinth are four energizers that allow Pac-Man to eat the ghosts and receive bonus points. In this scenario, the enemies turn deep blue and move away from Pac-Man. So while eating a blue ghost rewards bonus points, it increases the risk as well, since the period for which the ghost will remain blue (and harmless) is unknown. Consequently, when devising an optimal strategy to play Pac-Man, the reward earned for eating a ghost is discounted. A discount rate called gamma is defined, having a value between 0 and 1. It is inversely proportional to the reduction of reward. A large gamma implies that the learning agent is more concerned about the long term reward. On the other hand, a small gamma value means the agent has greater interest in short term rewards. Trial and error calculations, based on simulations, are then used to perfect the value of gamma.
 
-Our discounted total reward is *(article contains image here)*
+## A Closer Look at Reinforcement Learning for Video Games
 
-To be simple, each reward will be discounted by gamma to an exponent of the time step. As the time step increases, ghosts get
-closer to us, so the further reward is led and less probable to happen.
+DeepMind, a UK based AI company, has designed a learning agent which can recreate human-level performance in multi-player video games based on the ‘Capture the Flag’ model. The game begins with a team of players on either side of a playground. Both teams must protect their flag from the enemy. The first team to steal the flag of their opponent and bring it back to their base wins the game. If a player gets tagged by the opposition, they are out of the game.
 
-Using the new development in reinforcement learning deep mind design a game capture the flag. The rules are the first team to steal
-the flag of their opponent and bring it back to their base. If you get tagged by the opponent and bring it back to their base. If you
-get tagged by the opposition then you are out of the game. Deepmind research scientists train the whole population of AI agents into
-a digital version of the game.
+Using a digital version of the same, scientists at DeepMind have trained an entire population of agents, who learn by interacting with a three-dimensional environment via first-person perspective. There is no centralized entity and every player acts independently based on their own observations. Researchers have trained teams of up to 30 agents in parallel, all playing against each other thousands of times. Initially, all agents wander aimlessly, until one of them discovers some useful information and begins to take control of the flag and scoring points. At that point, there is an evolutionary pressure on the population. The agents continue playing till they achieve satisfactory performance. Genetic algorithms are used to ensure that the entire population evolves, and weaker agents are removed. Furthermore, the original group of trained agents is ‘bred’ together to produce ‘child’ agents, and as the number of generations increase, only the strongest traits persist. Unlike human children, AI agents inherit all knowledge their ‘parents’ possess.
 
-In this game AI agent sees their first-person point of view so, the AI agent has to look around and move through this 3-D world from
-the first-person perspective and interact with these other things. Here there is no centralized entity, every player act independently
-only thing they analyze is their observation. Research scientists at deep mind train the whole population of teammates, the entire
-classroom of 30 agents in parallel they are all playing within and against each other around 1000 of 1000 times each agent can learn
-from their own experience. When they start AI agents were bouncing around the place without a clue and one of them will discover
-something and will start taking control of the flag and scoring points. At that point, there is an evolutionary pressure on this
-population. Deep mind research scientists not only letting AI agents play on and on forever they are also using a genetic algorithm
-the way to make sure the whole culture of the population evolves. Some of the weaker one was removed from the population.
+Getting to the subtleties of how the learning process actually takes place, consider a typical simulation. An agent plays for five minutes and in the process, performs thousands of actions. Scientists then need to devise a way to associate, the analysis done by the agent about their environment, with the rules of the game. So, internal rewards may be linked with events such as retrieving the enemy flag, or a teammate tagging an opponent. Also, agents are allowed to independently evolve the rewards assigned to each event, which helps delegate responsibility within the team.
 
-The original classroom of agents breeds together ever and has kids of their own and as you go down the generation the strongest
-trait survive. Unlike human children, AI agents will inherit the whole knowledge been to gain from their parents. For example,
-AI agents play 5 minutes and do 1000of actions you just have to win or lose. Somehow deep mind research scientist has to learn what
-to do with the analysis done by AI agent about their environment. So the idea of internal reward were events in the game such as
-picking up a flag or dropping a flag or your teammate tagging an opponent or an opponent tagging you and all these sorts of things. 
-Also, research scientist allows the agents to individually evolve their internal reward which is the reward they assign to each event
-due to this some agents care a lot about holding on the flag and some agents care about teammate tagging, someone. But after some 
-round of games, the AI agent team is getting good at the game.
+AI agents trained in this manner can play with artificial as well as human teammates. They offer a certain advantage over human players, in that they are free from any human bias and only focus on winning the game.
 
-Training this way these agents have an advantage they can play within themself and more interestingly they can play with people. So
-we can drop people into these games and have an AI team mate. When people play with the AI agents some time agents completely ignore
-human players treat them that they completely use less. People pay a lot of attention to others even in-game scenarios human will 
-fixate with other players but these agents are trained completely unbiased without these human biases. In some games, your AI opponent
-will run passed near you and not even try to tag you because they are so fixated on getting the flag so quickly as possible because
-that going to maximize their number of capture and win the game.
+## Conclusion
 
-Reinforcement learning is a part of a decade-long trend within artificial intelligence and Machine Learning. Reinforcement learning
-is the closest to the kind of learning that humans do and many of the core algorithms of reinforcement learning were originally 
-inspired by the biological learning system. Reinforcement learning has also given back both through, a psychological model of animal
-learning that better matches some of the empirical data and though an influential model of part of the brain reward system.   
+While reinforcement learning is no novel innovation, it is certainly years away from reaching its full potential. A decade-long trend within artificial intelligence and machine learning, it forms the core of many computational processes which mimic the biological learning system. It has provided psychological models of animal learning that match empirical data better than traditional ones, and has helped map an influential model of the brain reward system. And if the past is any indication, future developments in this area will certainly be worth anticipating.
