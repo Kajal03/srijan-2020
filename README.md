@@ -22,7 +22,7 @@ Progress of content.
 |13.    |Reshaping internet access                  | Arpita Saggar   | ||
 |14.    |Uber's Rating System                       | Kajal Gupta     | |No|
 |15.    |Into the Decade with 5G                    | Diksha Gupta/Swati| Edit in Progress| |     ||
-|16.    |Reinforcement Learning Agents              | Arpita Saggar   |  -  ||
+|16.    |Reinforcement Learning Agents              | Arpita Saggar   | Review Requested ||
 |17.    |Ambient Voice Technology in Healthcare     | Kajal Gupta     | review requested||
 |18.    |Mobile Phone Sensing                       | Diksha GUpta               |      ||
 |19.    |Firebase                                   |    -            |  -    |No|
