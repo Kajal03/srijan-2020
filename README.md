@@ -26,6 +26,7 @@ Progress of content.
 |17.    |Ambient Voice Technology in Healthcare     | Kajal Gupta     | review requested||
 |18.    |Mobile Phone Sensing                       | Diksha GUpta               |      ||
 |19.    |Firebase                                   |    -            |  -    |No|
+|20.    |A brief on Big Data and its relation to wellbeing.| Kajal Gupta|  | | |
 ---
 
 ## Other content
