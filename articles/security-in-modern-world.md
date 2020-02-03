@@ -46,3 +46,5 @@ Key features of the platform include:
 •	AUTO PATCHING: Allows easy remediation of vulnerability and configuration controls following changes in a control process.
 
 •	COMPLIANCE MANAGEMENT: Provides a real-time analysis of the system in comparison to the global compliance framework.
+
+On evaluation of security risk assessment frameworks, we see that at each level, the process is dependent on the results of its predecessors. The risk assessment process depends on the result of vulnerability identification, while the monitoring process derives its foundation from established risks, with reports indicating all possible threats. Therefore, such frameworks not only provide a comprehensive cyber shield to organizations, but also promote strategic development in the cyber security industry, helping us move towards a more cyber secure future. 
