@@ -14,7 +14,7 @@ Progress of content.
 |5.     |3D Stacking                                | Swati Gautam    | Edit in progress  |  ||
 |6.     |How torrent works                          | Diksha Gupta    | |     ||
 |7.     |AI Rush                                    | Arpita Saggar   | on hold | TBD|
-|8.     |Security in the Modern World               | Arpita Saggar   |Conclusion required ||
+|8.     |Security in the Modern World               | Arpita Saggar   | Conclusion Added; Review Requested ||
 |9.     | IPFS                                      | Swati Gautam    | Reviewed |Yes|
 |10.    |Ethics and AI                              | Swati Gautam    |  Reviewed    |Yes|
 |11.    |Computing at the egde                      | Arpita Saggar   | Reviewed| Yes|
