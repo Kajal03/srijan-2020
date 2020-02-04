@@ -5,16 +5,16 @@
 |----|----|
 | Writer | Mansi Saxena - MSc I yr|
 | Editor | Diksha Gupta   |
-| Status | edited                       |
+| Status | edit in progress                    |
 | Plagiarism|3% | 
 
 ---
 
 **Generation Gaps**
-Before starting on to what 5G actually is, how is it different and what it can do, let’s brush up with some basic terms. You might know what a 4G or 3G supported mobile phone is and you might own one as well, have you ever wondered what exactly is this number followed by ‘G’? Between the conversations around the lines “My mobile is better because it supports 4G and yours doesn’t” this single-digit gap is what we can probably call a generation gap. The designation of a number followed by a ‘G’ actually represents generations of evolution of the wireless networks. It can be considered similar to what we have as 1st generation heir, 2nd generation heir and so on.
+Before starting on to what 5G actually is, how is it different and what it can do, let’s brush up with some basic terms. You might know what a 4G or 3G supported mobile phone is and you might own one as well. But, have you ever wondered what exactly is this number followed by the letter ‘G’? Between the conversations around the lines “My mobile is better because it supports 4G and yours doesn’t” this single-digit gap is what we can probably call a generation gap. The designation of a number followed by a ‘G’ represents generations of evolution of the wireless networks. It can be considered similar to what we have as 1st generation heir, 2nd generation heir and so on.
 
 **G starts with 0 not 1 !!**
-Now we can distinguish how each generation is different in layman’s terms, let’s dive in a little deeper. A lot of people do not know that wireless generation starts with a 0G and not 1G. Strange right? The reason is actually quite simple; since the onset of 0G was a pre-cell phone mobile telephony tech, say radios and does not exactly relate to cell phones in today’s terminology, this pretty little fact is lesser-known. Now as humans, we always want to do more, this curiosity of ours gave birth to a better version of 0G, known as 1G. This generation includes only voice calling signals, worked on analog cell phones and supported NMT (Nordic Mobile Telephone) and AMPS (Advanced Mobile Phone System). With this generation, we were able to do basic voice overcall. But we needed more, hence we came
+Now that we know that these generations differ, let us dive in a little deeper. A lot of people do not know that wireless generation starts with a 0G and not 1G. Strange, right? The reason is actually quite simple; since the onset of 0G was a pre-cell phone mobile telephony tech, say radios and does not exactly relate to cell phones in today’s terminology, this pretty little fact is lesser-known. Now as humans, we always want to do more, this curiosity of ours gave birth to a better version of 0G, known as 1G. This generation includes only voice calling signals, worked on analog cell phones and supported NMT (Nordic Mobile Telephone) and AMPS (Advanced Mobile Phone System). With this generation, we were able to do basic voice overcall. But we needed more, hence we came
 up with 2G and 2.5G, it brought us the world of data signals and CDMA, EDGE, TDMA, GSM, and GPRS. Boom! Now you can use the internet, Satisfied? Not yet. 3G brought us a better internet usage version and of course our video calling services with 3G, WCDMA, and UMTS. Later on, enhancements in protocols, IP based services, and VoLTE brought to what we have now, the 4G.
 
 **Into the 5G**
