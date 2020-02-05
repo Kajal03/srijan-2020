@@ -24,7 +24,7 @@ Progress of content.
 |15.    |Into the Decade with 5G                    | Diksha Gupta/Swati| In Progress| Yes|     ||
 |16.    |Reinforcement Learning Agents              | Arpita Saggar   | Reviewed | Yes|
 |17.    |Ambient Voice Technology in Healthcare     | Kajal Gupta     | Reviewed| Yes|
-|18.    |Mobile Phone Sensing                       | Diksha GUpta    |      ||
+|18.    |Mobile Phone Sensing                       | Diksha GUpta    | Reviewed     | Yes |
 |19.    |Firebase                                   |    -            |  Reviewed   |No|
 |20.    |A brief on Big Data and its relation to wellbeing.| Kajal Gupta| Reviewed | Yes |
 ---
