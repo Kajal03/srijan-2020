@@ -8,7 +8,7 @@
 | Writer | Ronak Aggarwal - MSc II yr|
 | Editor |  |
 | Status |  |
-| Plagiarism| 6% [Report](./plag-reports/plag-mobile-phone-sensing.pdf) |
+| Plagiarism| 3% [Report](./plag-reports/plag-mobile-phone-sensing.pdf) |
 
 
 ---
