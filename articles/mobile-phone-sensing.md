@@ -1,6 +1,5 @@
 
-1
-## Mobile  Phone CrowdSensing –A  resource  for  Contextualized  urban smart cities
+## Mobile Phone CrowdSensing – A resource for Contextualized urban smart cities
 
 ---
 | Field | Value |
