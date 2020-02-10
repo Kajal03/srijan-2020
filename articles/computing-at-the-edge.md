@@ -3,9 +3,9 @@
 ---
 | Field | Value |
 |----|----|
-| Writer | Bharat - MSc I yr|
+| Writer | Bharat Sardana- MSc I yr|
 | Editor | Arpita Saggar |
-| Status | Review Requested |
+| Status | Reviewed |
 | Plagiarism| None [Report](./plag-reports/plag-computing-at-the-edge.pdf) |
 | Updated Plag | None [Report](./plag-reports/plag-v2-computing-at-the-edge.pdf) | 
 

@@ -1,10 +1,10 @@
-# How torrent works
+# How Torrent works
 
 ---
 
 | Question   | Answer                                                            |
 | ---------- | ----------------------------------------------------------------- |
-| Writer     | How torrent works - Msc II year                                   |
+| Writer     | Abhinav Kumar - Msc II year                                  |
 | Editor     | Diksha Gupta                                                      |
 | Status     | Edited                                                |
 | Plagiarism | None 100% Unique                                                  |

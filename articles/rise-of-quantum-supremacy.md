@@ -5,7 +5,7 @@
 |----|----|
 | Writer | Anubhav Sethi - MCA I yr|
 | Editor | Arpita Saggar |
-| Status | Review Requested |
+| Status | Reviewed |
 | Plagiarism| 15% [Report](./plag-reports/plag-rise-of-quantum-supremacy.pdf) | 
 | Updated Plag | None [Report](./plag-reports/plag-v3-rise-of-quantum-supremacy.pdf)|
 
@@ -18,7 +18,7 @@ Q-bits represent particles (atoms, ions or electrons) and their control devices 
 
 In principle, properties like conductivity, rigidity, or colour, can be calculated from the atomic build-up of a molecule. But solving them with computers of today would take too long. Since quantum computers aren't limited to two states, they can solve such problems much faster. To truly realise the potential of quantum computing, consider this scenario - A quantum computer can be reproduced on a conventional one just by numerically resolving the equations of quantum mechanics. If successful, the computational complexity of the computer increases exponentially with the number of q-bits that are reproduced. On a personal computer, 2 or 4 q-bits might be feasible. For 50 q-bits, a group of supercomputers will be required and anything beyond that cannot be resolved at present, at least not in any suitable amount of time.
 
-## So what exactly is Quantum Supremacy?
+## What is Quantum Supremacy?
 
 Quantum supremacy is the event in which a quantum computer outperforms the best conventional computers at a particular task. It needs to be a specific task because quantum computers are special-purpose machines designed to facilitate specific computations. This gives rise to the question - How do we test for quantum supremacy?
 

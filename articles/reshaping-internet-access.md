@@ -11,9 +11,8 @@
 ---
 
 
-The Internet, from its very basic stages, to what it is today has been around for more than 35 years. Its potent is ubiquitous, from interactive education to speech enabled AI, most of the resources we use rely on the Internet. One might think that with such a huge dependence on connectivity, most people must have access to the Internet. At a price,  perhaps costly in some cases, but nevertheless accessible. Yet, it is not so. About half of the population worldwide remains offline. Owing to scarce population, geological conditions or a dawdling economy,  many places in India and worldwide are not acclimatized with the Internet.
+The Internet, from its very basic stages, to what it is today has been around for more than 35 years. Its potent is ubiquitous, from interactive education to speech enabled AI, most of the resources we use rely on the Internet. One might think, with such a huge dependence on connectivity, most people must have access to the Internet. At a price,  perhaps costly in some cases, but nevertheless accessible. Yet, it is not so. About half of the population worldwide remains offline. Owing to scarce population, geological conditions or a dawdling economy,  many places in India and worldwide are not acclimatized with the Internet.
 
-### Making a connection
 
 The Internet, in essence, is a network of connected computers. Data is sent in parts of certain sizes along with other information in the form of packets. Specialised computers called 'routers' move these packets from source to destination systems. We pay ISPs to be connected with this network. We pay for the bandwidth and indirectly for the material that goes into maintaining the network.
 
@@ -38,7 +37,8 @@ Data transmission beamed over current satellites is slow to respond. The transmi
 
 Moreover, you could be in a forest or a city and enjoy the same level of service.
 
-### Concerns and conclusion
+
+
 
 The project, albeit ambitious,  has come into a lot of controversies, especially from the community of astronomers. They've raised the concern that their observations of space will be affected by the bright streaks of light caused by the reflective surface of the satellites. On 6 January 2020, the 60 satellites that were launched were coated in an "experimental darkening treatment". This has still left some experts with a lot of scepticism. Giorgio Savini, director of the University College London Observatory, called out the move, saying no one would deliberately paint satellites dark as this could disturb its heat regulation capabilities.
 

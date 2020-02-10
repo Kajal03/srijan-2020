@@ -1,4 +1,4 @@
-## A brief on Big Data and its relation to wellbeing
+## Big Data and its relation to well-being
 
 ---
 | Field | Value |
