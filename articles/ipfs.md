@@ -49,6 +49,6 @@ content and hence achieves deduplication of data. It tracks version history that
 
 3. Free E-commerce ​ — ​ ​ Unlike traditional e-commerce sites like Amazon and e-Bay that charge fees for registering or selling items, an online marketplace can be created using IPFS that would not be centrally controlled and hence would not charge merchants. The trade would be peer-to-peer without any middleman.  OpenBazaar being an example.
 
-4. Cryptocurrencies ​ — ​ Since a massive amount of data storage around the world sits unused, one could use it to store data for IPFS and earn FileCoin which can then be exchanged for other cryptocurrencies. These transactions are stored in blockchains.
+4. Cryptocurrencies ​ — ​ Since a massive amount of data storage around the world sits unused, one could use it to store data for IPFS and gain credits in the form of FileCoin or other such cryptocurrencies. These transactions are stored in blockchains.
 
 IPFS is a conceptually and technically complex protocol that has soaring ambitions to revolutionize the way data is exchanged across the Internet. There is no doubt that HTTP helped the internet become what we know it as today. But, with emerging technology and the need for a distributed infrastructure, IPFS will certainly work better.
