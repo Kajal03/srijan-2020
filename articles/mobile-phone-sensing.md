@@ -15,7 +15,7 @@
  
   "We are 21st-century citizens, doing our very, very best to interact with 19th century-designed institutions that are based on an Information technology of the 15th century"  - Pia Mancini, 2014.
 
- The high rise of urban population and advancements in technology demand the need for smart, urban cities. Smart cities use a combination of software solutions, Internet of Things (IoT) devices and user interfaces.
+ The high rise of urban population and advancements in technology demand the need for smart urban cities. Smart cities use a combination of software solutions, Internet of Things (IoT) devices and user interfaces.
  
  IoT devices are a network of connected devices – such as vehicles, sensors or even home appliances. The way interaction between Web Pages (WWW) is the Internet of Content, the interaction between people (Social Media) is the Internet of People, similarly, the interaction between devices(or things) is the Internet of Things. The concept of a smart city uses IoT technologies to make better use of public resources and reduce the operational cost of public administrations, thus creating new opportunities and supporting better living.
 
@@ -27,7 +27,7 @@ Facebook, LinkedIn and similar other social networks have led to an increment in
 
 Research  Question: Is mobile phone sensing an effective solution to the aggregation of urban knowledge?
 
-Urban Scale crowdsensing is used by a large number of individuals to extract certain phenomena of interest. An experiment was conducted in France using Ambiciti - an application that notifies the user of the collective exposure to urban pollution. There are certain factors affect efficient crowdsensing solutions. Optimizing battery and memory usage, access to sensors and network interfaces and accuracy of locations are a few of the tasks involved in enhancing the approaches of crowdsensing. Users refraining from sharing their information, or sending in fake data could produce redundancy in results.
+Urban Scale crowdsensing is used by a large number of individuals to extract certain phenomena of interest. An experiment was conducted in France using Ambiciti - an application that notifies the user of the collective exposure to urban pollution. There are certain factors that affect efficient crowdsensing solutions. Optimizing battery and memory usage, access to sensors and network interfaces and accuracy of locations are a few of the tasks involved in enhancing the approaches of crowdsensing. Users refraining from sharing their information, or sending in fake data could produce redundancy in results.
 
 Crowd Sensing has emerged as a powerful solution to address environmental monitoring, allowing us to control air pollution levels in crowded urban areas in a distributed, collaborative, inexpensive and accurate manner. A lot of research is going on to develop it as a significant step in the context of urban smart cities.
 

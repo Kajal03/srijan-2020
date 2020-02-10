@@ -13,7 +13,7 @@
 11. A brief on Big Data and its relation to wellbeing
 12. How torrent works
 13. Reinforcement Learning Agents
-14. Mobile Phone CrowdSensing
+14. Mobile Phone Crowdsensing
 15. Security in the Modern World
 16. Ambient Voice Technology in Healthcare
 
