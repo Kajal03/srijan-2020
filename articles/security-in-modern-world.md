@@ -12,22 +12,22 @@
 ---
 In recent years, the telecommunication industry has witnessed significant growth with the increasing omnipresence of communication devices, and inception and development of new technologies such as IoT (Internet of Things), which have led to a substantial augmentation in interconnectivity. However, these developments have also exposed a glaring concern – the security risks and vulnerabilities which accompany them.
 
-Security risk management is an ongoing process to identify and manage these risks, followed by the implementation of plans to mitigate them. It assigns relative priorities to these plans. Thus, a risk assessment framework is needed for categorizing and sharing information about the security risk IT infrastructure. 
+Security risk management is a continual procedure used to identify and manage these risks, followed by the implementation of plans to mitigate them. It assigns relative priorities to these plans. Thus, a risk assessment framework is essential for classifying and disbursing knowledge about the security risk IT infrastructure. 
 
 ## Vulnerabilities and the Security Framework 
 
-Assessing vulnerabilities is a major task in any organization. Vulnerability analysis is a part of the risk assessment process. It focuses on methods for identifying vulnerabilitiesx and implementing suitable protection plans to maintain a certain standard of network security.
+Assessing vulnerabilities is a major task in any organization. Vulnerability analysis is a component of the risk evaluation method. It centralizes on processes for pinpointing vulnerabilities and executing suitable protection plans to maintain a certain standard of network security.
 
-In order to regulate the risk assessment process, a uniform and unanimous configuration is requisite. A security framework is a holistic structure for risk assessment. It is used to evaluate security capabilities across industry standards by using tools to identify shortcomings in controls, score the level of IT risk and prioritize rectification and repair. Even natural calamities like earthquakes, floods and fire are included in the list of risks, as these can impact the organization’s assets and its physical structure.
+In order to regulate the risk assessment process, a uniform and unanimous configuration is requisite. A security framework is a holistic structure for risk assessment. It is used to evaluate security adequacies across industry specifications by utilizing tools to identify shortcomings in controls, rate the severity of IT risk and prioritize rectification and repair. Even natural calamities like earthquakes, floods and fire are included in the list of risks, as these can impact the organization’s assets and its physical structure.
 
 ## Security Risk Assessment
 
-Security Risk Assessment is the process of evaluating the security risks of an organization to ascertain the required countermeasures. To be effective, risk assessment must be a continuous process. The motive is to identify the threats and vulnerabilities that could affect the privacy, integrity and accessibility of the system. The assessment is done at the early stages of product development and is later modified as changes occur in the information asset and its environment. The process involves theassessment and analysis of all assets and processes related to the system.
+Security Risk Assessment is the systematization of processes used to gauge the security risks of an organization, to ascertain the required countermeasures. In order to be effectual, risk assessment ought to be a continuous process. The motive is to identify the threats and vulnerabilities that could perturb the privacy, stability and accessibility of the system. The assessment is done at the initial stages of product conception and is later modified as changes occur in the information asset and its ecosystem. The process involves the assessment and interpretation of every asset and process linked to the system.
 
 It can be divided into three categories:
-1.	High-Level Assessment, which is applied to systems at design phase in order to identify risks before implementation.
-2.	Comprehensive Assessment, which is used to assess a particular constituent system and to gather feedback for improvement. 
-3.	Pre-Production Assessment, conducted on new information systems before they are rolled out.
+1.	High-Level Assessment, which is administered to systems at design phase in order to diagnose prospective liabilities prior to implementation.
+2.	Comprehensive Assessment, which is used to assess a particular constituent system and to gather feedback for amelioration. 
+3.	Pre-Production Assessment, performed on novel information systems before they are deployed.
 
 ## An Insight into Modern Risk Assessment Tools - LUCIDEUS SAFE
 
