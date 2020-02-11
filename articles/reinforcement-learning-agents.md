@@ -3,7 +3,7 @@
 ---
 | Field | Value |
 |----|----|
-| Writer | Manish - MCA I yr|
+| Writer | Manish Meena - MCA I yr|
 | Editor | Arpita Saggar |
 | Status | Reviewed |
 | Plagiarism | 8% [Report](./plag-reports/plag-reinforcement-learning-agents.pdf) |
