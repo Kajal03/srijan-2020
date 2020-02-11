@@ -34,13 +34,15 @@ In order to develop explainable machine learning and deep learning systems we ca
 
 ## Ante-Hoc Methods : 
 
-    1) Reversed Time Attention Model (RETAIN): Researchers at Georgia-Tech developed the RETAIN model to help doctors understand an AI software’s predictions. Data collected from many patients’ hospital visits were sent to 2 RNN’s having attention mechanism, which helped in explaining which part the neural network was focused on and which features actually influenced its choice.
+    1) Reversed Time Attention Model (RETAIN): 
+    This model was created at Georgia-Tech to help doctors understand an AI software’s predictions. 
+    The data of patients' hospital visits was fed to 2 RNNs equipped with attention mechanism. This exercise was conducted to understand and explain the focus points of the neural network and the features that influenced those choices.
 
-    2) Bayesian Deep Learning (BDL): We could measure the uncertainty of a neural network’s prediction using BDL. By either learning a direct mapping to probabilistic outputs or by placing distributions over model weights, BDL forms uncertainty estimates. Using weight distributions of various predictions and classes, we can tell what feature led to what decisions and its relative importance.
+    2) Bayesian Deep Learning (BDL): We could measure the uncertainty of a neural network’s prediction using BDL. BDL forms uncertainty estimates by either learning a direct mapping to probabilistic outputs or by placing distributions over model weights. We can figure out the path that led to the decisions taken by the model by employing weight distributions of various predictions and classes.
 
 ## Post-Hoc Methods:
 
-    1) Local Interpretable Model-Agnostic Explanations (LIME): Unlike RETAIN, LIME have a wide range of applications as it’s not customized to a single domain. We can’t call it a purely transparent model as it provides the explanation after a decision has been made. For instance, in an Image classification problem (using CNN), LIME first blacks out different areas of the original image and feeds the resulting images into the model to see which of the new images threw off the algorithm farthest and derive reasoning behind the model’s predictions.
+    1) Local Interpretable Model-Agnostic Explanations (LIME): LIME is not confined to a single domain. This ability gives it an edge over RETAIN. LIME provides the explanation after a decision has been made, and thus can not be called a purely transparent model. For instance, in an Image classification problem (using CNN), LIME obscures different areas of the original image and feeds the result into the model to see what part of the input deviated the algorithm and derive reasoning behind such deviations.
 
     2) BETA: BETA is considered to be closely related to interpretable decision sets. To explain the part of the model behaviour unambiguously, BETA learns a compact 2-level decision set. BETA uses an objective function which helps the learning process in having high fidelity (agreement between explanation and model), high interpretability and low unambiguity. All these aspects are combined into one objective function which is optimized.
 
