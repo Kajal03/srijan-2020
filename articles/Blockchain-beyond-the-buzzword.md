@@ -23,25 +23,23 @@ A blockchain can be thought of as a distributed ledger with each block containin
     2. Hash of its own
     3. Hash of the previous block
 
-The data stored in a single block depends on the type of the blockchain. In the case of a bitcoin blockchain, the block stores the transactional data such as the sender and receiver details and the number of coins. A block also has a hash which can be compared to a fingerprint i.e. the hash is unique for each block in the blockchain. Once created, the hash of the block is calculated.
-If any changes are made inside the block, the hash also changes.
+The data stored in a single block is subject to the type of the blockchain. In the case of a cryptocurrency blockchain, the block stores the transactional data such as the bank details of the beneficiary, the amount of credit etc. For facilitating encryption, each block consists of a hash which acts like the fingerprint of any block as it is unique for each block in the blockchain. Once created, the hash of the block is calculated. If the contents of the block changes, it changes the hash of the block also.
 
-## What makes a blockchain secure?
+## Why is a blockchain so secure?
 
-Every block stores the hash of the previous block, thus making it secure.
+Every block stores the hash of the preceding block, thus making it secure.
 
 ![Img](../imgs/blockchain1.png)
 
-Let’s understand this with the picture above. Suppose the second block here is tampered causing its hash to change. This action will make block 3 invalid as it would no longer store a valid hash of its previous block. To maintain consistency the hash of the third block would need to be updated. And so on. Therefore, to change a single block, every single block after it would require an update as well.
+Let’s understand this with the picture above. Suppose the second block here is tampered causing its hash to change. This action will make block 3 invalid as it contains invalid hash of the preceding block. To maintain consistency the hash of the third block would need to be updated. And so on. Therefore, to change a single block, every single block after it would require an update as well.
 
-A hash is easy to calculate with a ton of powerful machines available in the market and hence can be cracked. This is when proof-of-work(POW) comes into the picture. It’s a technique that slows down the creation of each block so that the tampering becomes more difficult. In the proof of work system, computers that want to add a block to a network must “prove” that they have earned the right to do so. They prove their eligibility by solving a compound computational maths problem. 
-Thus, the security of a blockchain comes from its innovative use of hashing and POW.
+A hash is easy to calculate with a ton of powerful machines available in the market and hence can be cracked. To save the blockchain from such systems, proof-of-work(POW) technique is used. It’s a technique that decelerates the creation of each block so that the tampering becomes more difficult. In the proof of work system, computers that want to add a block to a network must “prove” that they have earned the right to do so. They prove their eligibility by solving a compound computational maths problem. Thus, the security of a blockchain drives from its innovative use of hashing and POW.
 
-A blockchain also provides security by being distributed on a decentralized network or in other words, a peer-to-peer network instead of a central database. Every peer on the network is provided with a complete copy of the blockchain. When a new block is created, every blockchain copy on the network is updated. All the nodes create a consensus to agree upon which block is valid and which is not. This ensures that the tampered blocks are rejected from the network.
+A blockchain also provides security by being distributed on a decentralized network or in other words, a peer-to-peer network instead of a central database. Every peer on the network is provided with a duplicate of the blockchain. When a new block is produced, every blockchain copy on the network is updated. All the nodes establish a consensus to acknowledge which block is valid and which is not. This ensures that the tampered blocks are rejected from the network.
 
 ![Img](../imgs/blockchain2.png)
 
-Consider a network of 100,000 nodes. To tamper with a block on the blockchain, one needs to calculate the hashes of all the blocks and their proof-of-work which in the case of a bitcoin blockchain takes about 10 minutes. This has to be done for more than 50% of the nodes on the P2P network. This is almost impossible to accomplish, making blockchain the safest way to transact.
+Consider a network of 100,000 nodes. To tamper with a block on the blockchain, one needs to calculate the hashes of all the blocks and their POW which takes a huge amount of time. This has to be done for more than 50% of the nodes on the P2P network. This is almost impossible to accomplish, making blockchain the safest way to transact.
 
 ## Potential uses of blockchain
 
