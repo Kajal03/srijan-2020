@@ -8,7 +8,7 @@ Progress of content.
 | S. No | Name                                      | Editor Assigned |  Status/ Comments | Conclusion|
 |------ |-------------------------------------------|---------------- |---------|-----------|
 |1.     |Mind Design-Merging with AI                | Kajal Gupta     | Reviewed |  No |
-|2.     |The Rise of Quantum Supremacy              | Arpita Saggar   |Reviewed | On hold |
+|2.     |The Rise of Quantum Supremacy              | Arpita Saggar   |Reviewed | Yes |
 |3.     |Blockchain - Beyond the buzzword           | Kajal Gupta     |Reviewed| Yes|
 |4.     |The Dynamics of Molecular Machine Learning | Kajal Gupta     |Reviewed |  Yes|
 |5.     |3D Stacking                                | Swati Gautam    | Reviewed | Yes ||
@@ -33,7 +33,7 @@ Progress of content.
 
 | S. No | Title                     | Editor(s) assigned | Status |
 | ----  | ------------------------- | ------------------ | ------ |
-| 1     | Index / Order of articles | Junior Editors     | First iteration done.   |
+| 1     | Index / Order of articles | Junior Editors     | Done.   |
 | 2     | Foreword                  | Junior Editors     | Done   |
 | 3     | About Srijan              | Junior Editors     | Done   |
 
